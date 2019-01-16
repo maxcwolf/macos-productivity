@@ -1,8 +1,10 @@
 # Become a More Productive Developer on Mac OS
 
-I work on Windows, Mac, and Linux for development, but my preferred development platform of choice is Mac. This is for a variety of reasons, mainly because it is a UNIX system (like Linux) so there are a lot of great command line tools available *AND* it is the most efficient platform in terms of developer experience in my opinion.
+I work on Windows, Mac, and Linux for development, but my preferred development platform of choice is Mac. This is for a variety of reasons, mainly because it is a UNIX system (like Linux) so there are a lot of great command line tools available *AND* it is a very efficient platform in terms of developer experience.
 
-On a Windows machine it can be very hard to not use your mouse for a lot of things, but on a Mac you almost never need to use your mouse if you know what you are doing. This helps with wrist and hand strain, which makes a difference over time, as well as speeding up the time to complete mundane tasks noticeably. 
+The goal is to use your mouse or trackpad as little as possible and become comfortable with hotkeys and the command line. This helps with wrist and hand strain, which makes a difference over time, as well as speeding up the time to complete mundane tasks noticeably.
+
+**Windows Users**: You can do most of this in Windows too! I'll create a guide later on that.
 
 1. Use `Cmd + Space` to open **EVERYTHING** *(except VSCode)*! Just start typing what you want to open then enter after a few letters. For example, if you want to open Chrome, just click `Cmd + Space`, then type `c` + `h` + `r`, then `Enter`.  This is much faster than mousing/trackpadding around your dock or finder looking for an app to open.
     >- The built in "Spotlight" app in Mac OS is your friend, and should be the ONLY way you open applications, unless using the command line to launch files/folders
